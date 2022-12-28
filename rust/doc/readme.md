@@ -1,3 +1,7 @@
+# 文档
+
+[中文文档](https://kaisery.github.io/trpl-zh-cn/title-page.html)
+
 # 作业方法
 
 -   初始化包 `cargo new [package]`
