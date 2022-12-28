@@ -11,7 +11,6 @@ charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = false
 max_line_length = 150
-single_quote= single
 
 [.md]
 indent_size = 2
